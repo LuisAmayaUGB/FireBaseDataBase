@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FireApp</string>
+
+    <string name="dummy_name">dummy_name</string>
+    <string name="dummy_mobile">dummy_mobile</string>
+    <string name="name_hint">name_hint</string>
+    <string name="update_user_info">update_user_info</string>
+
+
+</resources>
